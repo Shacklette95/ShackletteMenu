@@ -1,0 +1,43 @@
+
+/*Main Header*/
+
+.Header{
+    background: linear-gradient(to right,blue, transparent, red);
+    text-align: center;
+}
+
+h1{
+    font-size: 10em;
+    margin-bottom: 0;
+}
+
+.main-nav{
+    background-color: hex(#2a1f9e);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav li{
+    font-size: 1.5em;
+}
+.main-nav a{
+    color:black
+    display: block;
+    text-decoration: none;
+    width: 100%;
+}
+/*Main body of the website*/
+.Main-Body{
+    text-align:center;
+    margin-left: 5%;
+    margin-right:5%;
+    background-color: lightgrey;
+}
+
+/*Footer*/
+
+.Footer{
+    background-color: grey;
+}
+
